@@ -1,0 +1,4 @@
+APIKEY = '당신의 API key를 입력하세요'
+LIMIT = '100'
+REINFORCE = '401'
+GETEPIC = '505'
