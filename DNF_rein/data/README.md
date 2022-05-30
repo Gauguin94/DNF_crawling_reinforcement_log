@@ -1,4 +1,6 @@
-# preprocess.py
+# preprocess.py  
+> **preprocess.py 라는 이름은 나중에 이 파일에 데이터 전처리를 할 것을 상정하고 지은 이름이다.  
+> (아직은 데이터 전처리 부분을 생각해보진 않음...)**  
 ```python
 class makeData:
     def __init__(self):
