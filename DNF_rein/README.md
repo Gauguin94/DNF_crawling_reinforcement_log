@@ -37,8 +37,7 @@ if __name__ == "__main__":
 > 모험단 검색을 통해, 모험단 내 계정 캐릭터의 이름들을 전부 가져온다.    
 >  
 ```python
-    do = filtering()
-    do.run()
+    char_list = makeData().run()
 ```  
 >   
 > 목표는 13강 이상을 성공한 사람들의 로그를 얻는 것이기 때문에 13강을 성공해보지 못하신 분들,  
@@ -46,11 +45,11 @@ if __name__ == "__main__":
 > 재미삼아 강화해본 무기 혹은 실질적으로 사용하지 않는 무기의 성공은 제외시켰다.     
 >   
 ```python
-    char_list = preprocessData().run()
+    do = filtering()
+    do.run()
 ```  
 >   
-> 혹시나 겹치는 캐릭터가 있을 수 있기 때문에 한 번 걸러준다.  
-> (preprocess는 아니지만, 작성 당시 떠오르는 이름이 없어서...)  
+> 혹시나 겹치는 캐릭터가 있을 수 있기 때문에 한 번 걸러준다.   
 >   
 ```python
     getLog(char_list).run()
