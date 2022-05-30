@@ -86,10 +86,10 @@ if __name__ == "__main__":
 > [WARP](https://github.com/Gauguin94/DNF_crawling/tree/main/DNF_epic/crawling) <- click  
 >   
 > **2. 데이터 관련 사전 작업**  
-> [WARP](https://github.com/Gauguin94/DNF_crawling/tree/main/DNF_epic/data) <- click  
+> [WARP](https://github.com/Gauguin94/DNF_crawling_reinforcement_log/tree/main/DNF_rein/data) <- click  
 >   
 > **3. NEOPLE 오픈 API 호출**  
-> [WARP](https://github.com/Gauguin94/DNF_crawling/tree/main/DNF_epic/getAPI) <- click  
+> [WARP](https://github.com/Gauguin94/DNF_crawling_reinforcement_log/tree/main/DNF_rein/getAPI) <- click  
 >   
 > **4. 재미로 해본 근본없는 분석?**  
-> [WARP](https://github.com/Gauguin94/DNF_crawling/tree/main/DNF_epic/analyze) <- click  
+> [WARP](https://github.com/Gauguin94/DNF_crawling_reinforcement_log/tree/main/DNF_rein/analyze) <- click  
