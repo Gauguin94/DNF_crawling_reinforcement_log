@@ -1,11 +1,11 @@
 # preprocess.py
 ```python
-class preprocessData:
+class makeData:
     def __init__(self):
         pass
 ```  
 >   
-> preprocessData 클래스는 loadData, deldupl, onemoreFilter, saveData, run 메소드로 구성되어 있다.  
+> makeData 클래스는 loadData, deldupl, onemoreFilter, saveData, run 메소드로 구성되어 있다.  
 >   
 ```python
     def onemoreFilter(self, list):
