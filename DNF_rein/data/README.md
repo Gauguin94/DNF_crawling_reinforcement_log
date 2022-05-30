@@ -31,5 +31,6 @@ class preprocessData:
 > 13강의 성공 비율을 보는 것인데 12강을 갖고 있지만 13강에 성공한적이 없는 사람들은 어떻게 할거냐?  
 > **성공한 사람들은 어느 시간대에 주로 성공하는가?** <- 목표.  
 > 목표를 위해서는 13강 장비를 갖고 있지 않은 분들은 제외하도록 하겠다.  
-> 클래스내 다른 메소드들은 DNF_crawling_epic_log repository의 data 디렉토리의 README.md를 참고하면 되겠다.  
+> 클래스내 다른 메소드들은 DNF_crawling_epic_log repository의  
+> data 디렉토리 내 README.md를 참고하면 되겠다.  
 > [DNF_crawling_epic_log/data](https://github.com/Gauguin94/DNF_crawling_epic_log/tree/main/DNF_epic/data) <- click  
