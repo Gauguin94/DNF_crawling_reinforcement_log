@@ -1,8 +1,6 @@
 import os
 from datetime import datetime
 
-from sympy import maximum
-
 path = '/home/kkn/DNF_rein/output/'
 
 def whatTime():
