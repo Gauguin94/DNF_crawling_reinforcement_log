@@ -83,6 +83,7 @@ if __name__ == "__main__":
   
 > **1. Dunfamoa 크롤링**  
 > 크롤링 과정은 고유 에픽 크롤링 과정과 동일하게 이루어진다.  
+> 하여, 본 파트는 DNF_crawling_epic의 crawling 링크로 대체한다.  
 > [WARP](https://github.com/Gauguin94/DNF_crawling/tree/main/DNF_epic/crawling) <- click  
 >   
 > **2. 데이터 관련 사전 작업**  
