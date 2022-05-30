@@ -11,7 +11,7 @@ def whatTime():
     date = time[:6]
     return date
 
-class preprocessData:
+class makeData:
     def __init__(self):
         pass
 
